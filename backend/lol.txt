@@ -1,0 +1,13 @@
+for that particular user
+- create 
+- view with user id
+- delete with blog id
+- edit with blog id
+
+For all users
+
+- view all blogs 
+
+hi vines
+ 
+npm install react-hook-form
